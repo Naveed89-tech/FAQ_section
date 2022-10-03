@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Naveed89-tech/Background_slider)
-- Live Site URL: [Background_slider](https://backgroundsliderappjavascript.netlify.app/)
+- Solution URL: [Github](https://github.com/Naveed89-tech/FAQ_section)
+- Live Site URL: [Background_slider](https://faq-section-app.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
 ## My process
