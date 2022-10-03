@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Naveed89-tech/FAQ_section)
-- Live Site URL: [Background_slider](https://faq-section-app.netlify.app/)
+- Live Site URL: [FAQ_Section](https://faq-section-app.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
 ## My process
